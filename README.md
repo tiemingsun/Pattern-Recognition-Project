@@ -1,5 +1,5 @@
 # Pattern-Recognition-Project
-Find best classifier for a hand posture dataset with 36 features and 6 classes, a thorough usage of pattern recognition / machine learning models
+Find best classifier for a hand posture dataset with 36 features and 5 classes, a thorough usage of pattern recognition / machine learning models
 
 This is a final project for EE 559: Mathematical Pattern Recognition in 2020 spring semester
 ## Procedures
